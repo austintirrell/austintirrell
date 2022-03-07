@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @austintirrell
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning at Ivy Tech
+- 💞️ I’m looking to collaborate on front-end projects
+- 📫 You can reach me at austinjtirrell@gmail.com
